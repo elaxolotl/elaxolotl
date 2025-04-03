@@ -1,4 +1,4 @@
-# Youssef Echady Sfaxi
+<h1> <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/39/Blue_Axolotl_JE2.png/revision/latest/scale-to-width/360?cb=20210402204253" width="50"/> Youssef Echady Sfaxi </h1>
 
 ## About me
 Hey, I’m Youssef! I like building things that make information more explorable, whether it’s websites, data projects, or interactive experiences. My work often blends sustainability, tech, and storytelling. Currently diving into AI, Java, and data analysis—always up for a good challenge.
@@ -8,4 +8,4 @@ Hey, I’m Youssef! I like building things that make information more explorable
 
 ---
 
-<img src="https://mystickermania.com/cdn/stickers/minecraft/minecraft-axolotl-bucket-512x512.png" width="150"/>
+
